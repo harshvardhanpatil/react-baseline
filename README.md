@@ -7,11 +7,11 @@
 3. npm install
 4. npm start
 
-### `How to build`
+### `How to build :`
 
 1. npm run build
 
-### `Port`
+### `Port And Details :`
 
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
