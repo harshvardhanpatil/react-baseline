@@ -1,0 +1,31 @@
+.panel-container{
+    /* min-width: 100%;
+    min-height: 100%; */
+    /* padding: 5px; */
+    border-radius: 5px;
+    /* margin: 10px; */
+    /* box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px ; */
+    padding-bottom: 5px;
+    padding-top: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.panel-container:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.panel-header{
+    padding: 5px;
+    text-align: start;
+    border-bottom: solid 2px #eceff1;
+    font-weight: bold;
+}
+.panel-body{
+    padding: 5px;
+    text-align: start;
+}
+.panel-footer{
+    text-align: start;
+}
+.panel-wrapper{
+    padding:5px;
+}
