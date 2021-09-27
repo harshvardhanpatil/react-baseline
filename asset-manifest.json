@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-baseline/static/css/main.80adf6b6.chunk.css",
+    "main.js": "/react-baseline/static/js/main.cae6ce5d.chunk.js",
+    "main.js.map": "/react-baseline/static/js/main.cae6ce5d.chunk.js.map",
+    "runtime-main.js": "/react-baseline/static/js/runtime-main.804ad6b7.js",
+    "runtime-main.js.map": "/react-baseline/static/js/runtime-main.804ad6b7.js.map",
+    "static/css/2.f2512455.chunk.css": "/react-baseline/static/css/2.f2512455.chunk.css",
+    "static/js/2.ee30cce5.chunk.js": "/react-baseline/static/js/2.ee30cce5.chunk.js",
+    "static/js/2.ee30cce5.chunk.js.map": "/react-baseline/static/js/2.ee30cce5.chunk.js.map",
+    "static/js/3.a8c5ab22.chunk.js": "/react-baseline/static/js/3.a8c5ab22.chunk.js",
+    "static/js/3.a8c5ab22.chunk.js.map": "/react-baseline/static/js/3.a8c5ab22.chunk.js.map",
+    "index.html": "/react-baseline/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/react-baseline/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.80adf6b6.chunk.css.map": "/react-baseline/static/css/main.80adf6b6.chunk.css.map",
+    "static/js/2.ee30cce5.chunk.js.LICENSE.txt": "/react-baseline/static/js/2.ee30cce5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.804ad6b7.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.ee30cce5.chunk.js",
+    "static/css/main.80adf6b6.chunk.css",
+    "static/js/main.cae6ce5d.chunk.js"
+  ]
+}
