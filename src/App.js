@@ -19,17 +19,17 @@ function App() {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="me-auto">
-              <Nav.Link href="/home">Home</Nav.Link>
-              <Nav.Link href="/documentation">Documentation</Nav.Link>
+              <Nav.Link href="/react-coponent-framework/home">Home</Nav.Link>
+              <Nav.Link href="/react-coponent-framework/documentation">Documentation</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
       </Navbar>
       <div className='app-container'>
         <Switch>
-          <Route path='/' exact component={Home} />
-          <Route path='/home' exact component={Home} />
-          <Route path='/documentation' component={Documentation} />
+          <Route path='/react-coponent-framework' exact component={Home} />
+          <Route path='/react-coponent-framework/home' exact component={Home} />
+          <Route path='/react-coponent-framework/documentation' component={Documentation} />
           <Route component={Page404} />
         </Switch>
       </div>

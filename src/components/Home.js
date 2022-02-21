@@ -6,7 +6,7 @@ import {AiOutlineLink} from 'react-icons/ai'
 const Home = ({ history }) => {
     return (
         <div className='home'>
-            <span class="material-icons-outlined" onClick={() => history.push('/documentation')}>
+            <span class="material-icons-outlined"  onClick={() => history.push(`documentation`)}>
                 <Container className='mt-5'>
                     <h4> Welcome to <span style={{fontWeight:'bold',color:'#fd43a1'}}>react-component-framework</span></h4>
                     <p className='mt-5'>
@@ -14,7 +14,7 @@ const Home = ({ history }) => {
                         For more information checkout the documentation section.
                     </p>
                     <div className='mt-5'>
-                        <AiOutlineLink href='/documentation' style={{width:'40px',height:'40px'}}/>
+                        <AiOutlineLink href={`${process.env.REACT_APP_API_URL}/documentation`} style={{width:'40px',height:'40px'}}/>
                     </div>
                 </Container>
             </span>
